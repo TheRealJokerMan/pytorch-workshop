@@ -1,0 +1,16 @@
+#
+# Copyright (c) 2024 Jamie Kenyon. All Rights Reserved.
+# SPDX-License-Identifier: MIT
+#
+
+# Directories:
+__build__/
+__pycache__/
+.pytest_cache/
+.venv/
+.vs/
+data/
+
+# Files:
+.DS_Store
+*.pth
